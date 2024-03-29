@@ -24,11 +24,11 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working as a DevOps Engineer in a US based Startup (FinTech).
+- 🔭 I’m currently working as a DevOps Engineer at a US based Startup (FinTech).
 - 🌱 I’m currently learning how to deploy microservices on AWS EKS cluster using Helm Charts.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-- 📫 How to reach me: Contact info in left menu...
+- 📫 How to reach me: Contact info in the left menu or at the top of this page...
 
 
 
